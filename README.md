@@ -5,11 +5,11 @@ This script evaluates a Random Forest model on the popular Breast Cancer dataset
 - Original features
 - Log-transformed features
 
-## Purpose
+#### Purpose
 
 To demonstrate the impact of feature transformation (log1p) on model accuracy.
 
-## How to Run
+#### How to Run
 
 ```bash
 pip install -r requirements.txt
