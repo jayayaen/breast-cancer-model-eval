@@ -4,7 +4,7 @@ breast_cancer_rf_eval.py
 A script to evaluate Random Forest model performance on the Breast Cancer dataset
 using both original and log-transformed feature sets.
 
-Author: [Your Name]
+Author: AJ
 License: MIT
 """
 
