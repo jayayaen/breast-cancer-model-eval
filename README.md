@@ -14,3 +14,8 @@ To demonstrate the impact of feature transformation (log1p) on model accuracy.
 ```bash
 pip install -r requirements.txt
 python breast_cancer_rf_eval.py
+
+breast-cancer-model-eval/
+├── breast_cancer_rf_eval.py
+├── README.md
+├── requirements.txt
